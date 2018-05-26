@@ -19,10 +19,9 @@ text-align: center;
   padding:100px;
   background: #d76009;
   margin-bottom: 20px;
-  border-bottom-left-radius: 170%;
-  border-top-right-radius: 170%;
   border-bottom: solid 33px grey;
-  transform: rotate(-15deg)
+  transform: rotate(15deg)
+    z-index:9999;
 }
 #btns .button {
   background: white;
