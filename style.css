@@ -12,8 +12,10 @@ text-align: center;
 }
 #btns {
   padding:20px;
-  background: #f00;
+  background: #bd0000;
   margin-bottom: 20px;
+  border-bottom-left-radius: 90px;
+  border-bottom-right-radius: 90px;
 }
 #btns .button {
   background: white;
@@ -28,14 +30,16 @@ text-align: center;
   display: inline-block;
 }
 
-.red {background: red;}
+.red {background: #771010;}
 .blue {background: blue;}
 .green {background: green;}
 .yellow{background: yellow;}
 
-#subheader {
+.subheader {
   font-family: sans-serif;
   font-size: 18px;
   font-weight: 500;
-  
+  margin-bottom:20px;
+  color:grey;
+
 }
