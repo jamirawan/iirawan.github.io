@@ -32,3 +32,10 @@ text-align: center;
 .blue {background: blue;}
 .green {background: green;}
 .yellow{background: yellow;}
+
+#subheader {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  
+}
