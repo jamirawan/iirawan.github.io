@@ -5,8 +5,9 @@ background:#18BC9C;
 h1 {
   font-family: sans-serif;
   text-align: center;
-  font-size: 30px;
-  font-weight: 400;
+  font-size: 2.8em;
+  font-weight: 800;
+  color:white;
 }
 #boxes {
 width:80%;
@@ -15,16 +16,20 @@ text-align: center;
 
 }
 #btns {
-  padding:20px;
+  padding:100px;
   background: #d76009;
   margin-bottom: 20px;
-  border-bottom-left-radius: 90px;
-  border-bottom-right-radius: 90px;
+  border-bottom-left-radius: 170%;
+  border-top-right-radius: 170%;
+  border-bottom: solid 33px grey;
+  transform: rotate(-15deg)
 }
 #btns .button {
   background: white;
   padding-left: 5px 10px;
-  border: 0;
+  border-bottom: : solid 1px red;
+  transform: rotate(15deg)
+
 }
 .box {
   position:relative;
@@ -44,7 +49,7 @@ text-align: center;
   font-size: 18px;
   font-weight: 500;
   margin-bottom:20px;
-  color:grey;
+  color:white;
 
 }
 .play {
@@ -55,14 +60,17 @@ text-align: center;
   font-size: 2em;
   color:white;
   margin-right:20px;
+    transform: rotate(15deg)
+
 }
 .pause {
  background-color: red;
   border: none;
   width:50px;
   height: 50px;
-  font-size: 2em;
+  font-size: 4em;
   color:white;
+
 
 }
 
@@ -70,9 +78,9 @@ text-align: center;
  background-color: black;
   border-radius: 50%;
   border: none;
-  width:50px;
-  height: 50px;
-  font-size: 2em;
+  width:80px;
+  height: 80px;
+  font-size: 4em;
   color:white;
   margin-right:20px;
   border-top-left-radius:1%;
@@ -81,11 +89,13 @@ text-align: center;
 .pause {
  background-color: black;
   border: none;
-  width:50px;
+  width: 80px;
+  height: 80px;
     border-radius: 50%;
 border-top-right-radius:1%;
-  height: 50px;
-  font-size: 2em;
+  font-size: em;
   color:white;
+      transform: rotate(15deg)
+
 
 }
