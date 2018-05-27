@@ -16,11 +16,11 @@ text-align: center;
 
 }
 #btns {
-  padding:100px;
-  background: #d76009;
+  padding:50px;
+  background: aquamarine;
   margin-bottom: 20px;
-  border-bottom: solid 33px grey;
-  transform: rotate(15deg)
+  border-bottom: solid 33px aqua;
+  transform: rotate(deg)
     z-index:9999;
 }
 #btns .button {
@@ -51,27 +51,8 @@ text-align: center;
   color:white;
 
 }
-.play {
- background-color: red;
-  border: none;
-  width:50px;
-  height: 50px;
-  font-size: 2em;
-  color:white;
-  margin-right:20px;
-    transform: rotate(15deg)
-
-}
-.pause {
- background-color: red;
-  border: none;
-  width:50px;
-  height: 50px;
-  font-size: 4em;
-  color:white;
 
 
-}
 
 .play {
  background-color: black;
@@ -83,6 +64,10 @@ text-align: center;
   color:white;
   margin-right:20px;
   border-top-left-radius:1%;
+    border: none;
+  color:white;
+  margin-right:20px;
+    transform: rotate(-15deg)
 
 }
 .pause {
@@ -93,6 +78,9 @@ text-align: center;
     border-radius: 50%;
 border-top-right-radius:1%;
   font-size: em;
+  color:white;
+  border: none;
+  font-size: 4em;
   color:white;
       transform: rotate(15deg)
 
