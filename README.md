@@ -1,8 +1,9 @@
 
-# Irawan's landing page in progres
+# Halaman muka Irawan masih dalam pengerjaan
 
 Visit my other website [irawan.io](https://irawan.io) 
 
+---
 
 
 
@@ -225,7 +226,7 @@ Visit my other website [irawan.io](https://irawan.io)
     <text transform="matrix(0.9932 0.1167 -0.1167 0.9932 454.3413 1087.8784)" class="st14 st15 st16">irawans.com</text>
   </g>
 </g>
-<g id="text_1_" class="st17">
+  <g id="text_1_" class="st17">
   <g id="text">
     <text transform="matrix(1 0 0 1 230.9336 1418.7109)" class="st18 st19 st20">irawan</text>
     <text transform="matrix(1 0 0 1 635.4004 1317.04)" class="st18 st19 st16">Devanagri:</text>
