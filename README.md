@@ -1,43 +1,12 @@
 
 # Irawan's landing page in progres
 
-Visit my other websiet [irawan.io](https://irawan.io) 
+Visit my other website [irawan.io](https://irawan.io) 
 
 
-<div class="content">
-    
-    <div class="wayang" align="center">
-    <!--?xml version="1.0" encoding="utf-8"?-->
-<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1500 1500" style="enable-background:new 0 0 1500 1500; max-height:70vh;" xml:space="preserve">
-<style type="text/css">
-  .st0{fill:#26B99A;}
-  .st1{fill:#35495E;}
-  .st2{fill:#2C3E50;}
-  .st3{fill:#ECF0F1;}
-  .st4{fill:#6D6E71;}
-  .st5{fill:#ECF0F1;stroke:#000000;stroke-miterlimit:10;}
-  .st6{fill:none;stroke:#6D6E71;stroke-width:3;stroke-miterlimit:10;}
-  .st7{fill:#939598;stroke:#6D6E71;stroke-width:2;stroke-miterlimit:10;}
-  .st8{fill:#BCBEC0;}
-  .st9{fill:none;stroke:#6D6E71;stroke-width:2;stroke-miterlimit:10;}
-  .st10{fill:#E88832;}
-  .st11{fill:#D25627;}
-  .st12{fill:#00A651;}
-  .st13{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
-  .st14{opacity:0.1;fill:#FFFFFF;}
-  .st15{font-family:'Orbitron-Bold';}
-  .st16{font-size:38.7755px;}
-  .st17{display:none;}
-  .st18{display:inline;fill:#FFFFFF;}
-  .st19{font-family:'Orbitron-Light';}
-  .st20{font-size:77.551px;}
-  .st21{display:inline;fill:none;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;}
-  .st22{display:inline;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;}
-  .st23{display:inline;fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;}
-  .st24{display:inline;}
-  .st25{fill:#FFFFFF;}
-</style>
 <g id="round_1_">
   <g id="round">
     <ellipse class="st0" cx="706.4" cy="683.8" rx="578.5" ry="580.1"></ellipse>
@@ -289,9 +258,3 @@ Visit my other websiet [irawan.io](https://irawan.io)
   </g>
 </g>
 </svg>
-      
-      <h1> Irawan.io</h1>
-    </div>
-
-    
-    </div>
