@@ -2,9 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-body {
-	background:teal;
-}
 h1 {
   font-size: 2em;
   text-align:center;
@@ -14,6 +11,9 @@ h1 {
   font-family:'Roboto Slab', serif;
   padding-bottom:40px;
   padding-top:30px;
+}
+body {
+	background:teal;
 }
 h2 {
   font-size: 2em;
