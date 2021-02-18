@@ -10,18 +10,18 @@ Visit my profile page: [irawan.io](https://irawan.io)
 - 😄 Pronouns: he
 - ⚡ Fun fact: Emperor Nasi Goreng didn't exist so the rabits were always free
 
-[![GitHub: jamirawan](https://img.shields.io/github/followers/jamirawan?label=follow&style=social)](https://github.com/jamirawan)
+[![GitHub: iirawan](https://img.shields.io/github/followers/jamirawan?label=follow&style=social)](https://github.com/jamirawan)
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jamirawan" alt="jamirawan" />
+  <img src="https://komarev.com/ghpvc/?username=iirawan" alt="iirawan" />
 </p>
 
-[![HitCount](http://hits.dwyl.com/jamirawan/jamirawan.svg)](http://hits.dwyl.com/jamirawan/jamirawan)
+[![HitCount](http://hits.dwyl.com/iirawan/iirawan.svg)](http://hits.dwyl.com/jamirawan/jamirawan)
 
-![Irawan's Github Stats](https://github-readme-stats.vercel.app/api?username=jamirawan&show_icons=true)
+![Irawan's Github Stats](https://github-readme-stats.vercel.app/api?username=iirawan&show_icons=true)
 
-![Irawan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamirawan)
+![Irawan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iirawan)
 
-|  <a href="https://jamirawan.github.io/"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="150px" height="150px" /></a> |
+|  <a href="https://iirawan.github.io/"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Irawan's Github Page](https://jamirawan.github.io/)**                                                                                |
-|<a href="https://twitter.com/jamirawan"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/jamirawan"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/irawan.digital"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/irawanirawan/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+|       **[Irawan's Github Page](https://iirawan.github.io/)**                                                                                |
+|<a href="https://twitter.com/iirawan"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/jamirawan"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/irawan.digital"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/irawanirawan/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
